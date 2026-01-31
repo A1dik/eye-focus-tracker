@@ -18,7 +18,7 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone <your-repo-url>
+git clone <url моего репо>
 cd glaza
 ```
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ffmpeg -i your_video.mov warning.mp4
 ```
 
-### 4. Извлеки и усиль звук (опционально)
+### 4. Извлеки и усиль звук (опционально ПРОВЕРЬ ЧТО ЕСТЬ ffmpeg!!!)
 
 Если хочешь чтобы звук был громким (x100):
 
